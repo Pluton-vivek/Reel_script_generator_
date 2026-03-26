@@ -1,3 +1,7 @@
 yt-dlp
 playwright
 dotenv
+fastapi
+uvicorn
+assemblyai
+requests

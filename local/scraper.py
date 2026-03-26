@@ -100,7 +100,7 @@ def scrape_reels():
         try:
             for scroll in range(50):
                 save_session(context)
-                links = page.locator('a[href*="/reel/"]')
+                links = page.locator('a[href^="/"][href*="/reel/"]:not([href*="?"])')
                 for i in range(links.count()):
                     href = links.nth(i).get_attribute("href")
                     if not href: continue

@@ -1,0 +1,172 @@
+{
+    "single_profile_test": [
+        {
+            "username": "aliaabhatt",
+            "reels_scraped": 3,
+            "start_time": 1774536038.6357257,
+            "end_time": 1774536109.4046438,
+            "duration": 70.77,
+            "status": "success",
+            "error": null,
+            "cpu_percent_start": 0.0,
+            "memory_percent_start": 83.1,
+            "cpu_percent_end": 4.6,
+            "memory_percent_end": 81.0
+        }
+    ],
+    "concurrency_summary": [
+        {
+            "workers": 1,
+            "total_requests": 10,
+            "success": 0,
+            "failures": 10,
+            "total_time": 9.92,
+            "avg_latency": 0.99,
+            "cpu_start": 6.8,
+            "cpu_end": 0.0,
+            "memory_start": 82.1,
+            "memory_end": 82.1
+        }
+    ],
+    "concurrency_detailed": [
+        {
+            "workers": 1,
+            "results": [
+                {
+                    "username": "aliaabhatt",
+                    "reels_scraped": 0,
+                    "start_time": 1774536109.4092844,
+                    "end_time": 1774536110.6850228,
+                    "duration": 1.28,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 0.0,
+                    "memory_percent_start": 81.0,
+                    "cpu_percent_end": 6.9,
+                    "memory_percent_end": 82.1
+                },
+                {
+                    "username": "iam_srk",
+                    "reels_scraped": 0,
+                    "start_time": 1774536110.6876006,
+                    "end_time": 1774536111.9651766,
+                    "duration": 1.28,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 0.0,
+                    "memory_percent_start": 82.1,
+                    "cpu_percent_end": 9.7,
+                    "memory_percent_end": 82.1
+                },
+                {
+                    "username": "bhuvan.bam22",
+                    "reels_scraped": 0,
+                    "start_time": 1774536111.9675446,
+                    "end_time": 1774536112.7655919,
+                    "duration": 0.8,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 0.0,
+                    "memory_percent_start": 82.1,
+                    "cpu_percent_end": 7.0,
+                    "memory_percent_end": 82.1
+                },
+                {
+                    "username": "janhvikapoor",
+                    "reels_scraped": 0,
+                    "start_time": 1774536112.7671752,
+                    "end_time": 1774536113.548775,
+                    "duration": 0.78,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 0.0,
+                    "memory_percent_start": 82.1,
+                    "cpu_percent_end": 13.2,
+                    "memory_percent_end": 82.3
+                },
+                {
+                    "username": "shubmangill",
+                    "reels_scraped": 0,
+                    "start_time": 1774536113.5521142,
+                    "end_time": 1774536114.365411,
+                    "duration": 0.81,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 100.0,
+                    "memory_percent_start": 82.3,
+                    "cpu_percent_end": 5.1,
+                    "memory_percent_end": 82.2
+                },
+                {
+                    "username": "samantharuthprabhuoffl",
+                    "reels_scraped": 0,
+                    "start_time": 1774536114.3681533,
+                    "end_time": 1774536115.6447437,
+                    "duration": 1.28,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 0.0,
+                    "memory_percent_start": 82.2,
+                    "cpu_percent_end": 3.4,
+                    "memory_percent_end": 82.2
+                },
+                {
+                    "username": "hrithikroshan",
+                    "reels_scraped": 0,
+                    "start_time": 1774536115.6463163,
+                    "end_time": 1774536116.4451988,
+                    "duration": 0.8,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 0.0,
+                    "memory_percent_start": 82.2,
+                    "cpu_percent_end": 8.0,
+                    "memory_percent_end": 82.2
+                },
+                {
+                    "username": "ranveersingh",
+                    "reels_scraped": 0,
+                    "start_time": 1774536116.4469247,
+                    "end_time": 1774536117.2446873,
+                    "duration": 0.8,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 0.0,
+                    "memory_percent_start": 82.2,
+                    "cpu_percent_end": 4.3,
+                    "memory_percent_end": 82.3
+                },
+                {
+                    "username": "leomessi",
+                    "reels_scraped": 0,
+                    "start_time": 1774536117.2464836,
+                    "end_time": 1774536118.532768,
+                    "duration": 1.29,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 0.0,
+                    "memory_percent_start": 82.3,
+                    "cpu_percent_end": 6.3,
+                    "memory_percent_end": 82.1
+                },
+                {
+                    "username": "therock",
+                    "reels_scraped": 0,
+                    "start_time": 1774536118.5343878,
+                    "end_time": 1774536119.3246655,
+                    "duration": 0.79,
+                    "status": "http_error",
+                    "error": 502,
+                    "cpu_percent_start": 20.0,
+                    "memory_percent_start": 82.1,
+                    "cpu_percent_end": 4.6,
+                    "memory_percent_end": 82.1
+                }
+            ]
+        }
+    ],
+    "system_info": {
+        "cpu_cores": 12,
+        "total_memory_mb": 7598
+    }
+}
